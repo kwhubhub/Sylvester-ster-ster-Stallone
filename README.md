@@ -4,7 +4,9 @@
 日本語のタイトルは「シルベスタスタスタスタローン」です。  
 
 Scriptは「Asset」フォルダ内にある以下3ファイルです。  
-
+・GameDirector.cs  
+・GameSystem.cs  
+・Result.cs  
 
 **プレイ方法**  
 1.　スタートボタンON  
